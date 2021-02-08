@@ -1,0 +1,6 @@
+[submodule "centos-dockerfiles/CentOS-Dockerfiles"]
+	path = centos-dockerfiles/CentOS-Dockerfiles
+	url = https://github.com/CentOS/CentOS-Dockerfiles.git
+[submodule "CentOS-Dockerfiles"]
+	path = CentOS-Dockerfiles
+	url = https://github.com/CentOS/CentOS-Dockerfiles.git
